@@ -10,7 +10,6 @@
     <form id="form1" runat="server">
     <div>
         webform1 created successfully!!!
-        second line added to see revert happens!!
     
     </div>
     </form>
